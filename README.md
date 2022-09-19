@@ -30,3 +30,4 @@ https://user-images.githubusercontent.com/77989461/191108937-bca6b0c8-575f-4322-
 -	Making unit tests
 -	Finding solutions for problems such as parsing String values to double using a particular regex
 -	Analyzing webpage source code (using CSS selectors to get the specific data from the website)
+- Using lambda (testing purposes)
