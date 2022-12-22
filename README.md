@@ -13,12 +13,6 @@ Using JUnit framework I created unit tests of every method in Downloader, FromZl
 
 <br></br>
 
-## •	UML DIAGRAM 📈
-
-![CurrencyConverterUML](https://user-images.githubusercontent.com/77989461/191132306-052a38ad-f99c-4830-b724-8faea5978f8b.png)
-
-<br></br>
-
 ## •	TECHNOLOGY THAT I USED 🚀
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
